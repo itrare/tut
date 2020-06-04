@@ -1,1 +1,1 @@
-"feature1 -fixed feature2 in fileA.txt" 
+"feature1 -fixed feature2 feature3 in fileA.txt" 
